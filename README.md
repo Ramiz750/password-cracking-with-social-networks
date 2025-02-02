@@ -236,3 +236,5 @@ You can use this ID for tests purposes: `100039761583594`
 ## Results
 
 - Cracked passwords (if there are) are shown in `./cracked.txt` file.
+- kindly explain with a attack exmple?
+- 
